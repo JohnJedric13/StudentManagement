@@ -1,0 +1,16 @@
+{
+    "name": "alipat/student-management",
+    "description": "Basic Student Management",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alipat\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Jedric"
+        }
+    ],
+    "require": {}
+}
