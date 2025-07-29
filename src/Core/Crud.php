@@ -1,6 +1,6 @@
 <?php
 
-namespace  Alipat\StudentManagement\Core;
+namespace Alipat\StudentManagement\Core;
 
 interface Crud {
     public function create();
